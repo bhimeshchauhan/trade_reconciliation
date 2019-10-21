@@ -97,7 +97,7 @@ static3==0.5.1
 urllib3==1.22
 wbdata==0.2.7
 webencodings==0.5.1
-Werkzeug==0.12.2
+Werkzeug==0.15.3
 WTForms==2.1
 xattr==0.6.4
 xlrd==1.1.0
