@@ -27,7 +27,7 @@ idna==2.6
 itsdangerous==0.24
 jdcal==1.3
 Jinja2==2.9.6
-lxml==4.0.0
+lxml==4.6.2
 macholib==1.5.1
 MarkupSafe==1.0
 matplotlib==1.3.1
