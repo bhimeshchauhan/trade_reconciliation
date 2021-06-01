@@ -94,7 +94,7 @@ slack-cleaner==0.3.0
 slacker==0.9.60
 SQLAlchemy==1.1.14
 static3==0.5.1
-urllib3==1.22
+urllib3==1.26.5
 wbdata==0.2.7
 webencodings==0.5.1
 Werkzeug==0.12.2
